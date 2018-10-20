@@ -1,2 +1,2 @@
-# jingle_pallete_automate
+# AutoHotKey_JingPalleteAutomate
 AutoHotkey script for automating jingle pallete. 
